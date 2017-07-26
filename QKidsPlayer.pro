@@ -20,17 +20,14 @@ include(3rd/QtAwesome/QtAwesome/QtAwesome.pri)
 
 SOURCES += main.cpp\
         wndmain.cpp \
-    playercontroller.cpp \
     playlistmonitor.cpp \
     paappidledetect.cpp
 
 HEADERS  += wndmain.h \
-    playercontroller.h \
     playlistmonitor.h \
     paappidledetect.h
 
-FORMS    += wndmain.ui \
-    playercontroller.ui
+FORMS    += wndmain.ui
 
 RESOURCES += \
     3rd/QDarkStyleSheet/qdarkstyle/style.qrc

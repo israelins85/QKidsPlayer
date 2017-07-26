@@ -1,7 +1,6 @@
 #ifndef WNDMAIN_H
 #define WNDMAIN_H
 
-#include "playercontroller.h"
 #include "playlistmonitor.h"
 
 #include <QMediaPlayer>
