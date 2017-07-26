@@ -3,4 +3,4 @@
 	url = https://github.com/ColinDuquesnoy/QDarkStyleSheet.git
 [submodule "3rd/QtAwesome"]
 	path = 3rd/QtAwesome
-	url = https://github.com/gamecreature/QtAwesome.git
+	url=https://github.com/israelins85/QtAwesome.git
