@@ -79,6 +79,8 @@ WndMain::WndMain(QWidget *parent) :
     ui->btnPlaybackMode->setText(QString( QChar(static_cast<int>(fa::listol)) ));
     ui->btnPlaybackMode->setFont(qtAwesome->font(32));
 
+    ui->stackedWidget->setCurrentWidget(ui->pagePlayList);
+
     makeConnections();
     createPlaybackModeMenu();
 
