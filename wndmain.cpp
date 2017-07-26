@@ -1,7 +1,7 @@
 #include "wndmain.h"
 #include "ui_wndmain.h"
 
-#include <3rd/PaLib/src/paappidledetect.h>
+#include "paappidledetect.h"
 
 #include <QDesktopWidget>
 #include <QTime>
