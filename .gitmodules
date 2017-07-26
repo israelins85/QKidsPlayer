@@ -1,0 +1,6 @@
+[submodule "3rd/QDarkStyleSheet"]
+	path = 3rd/QDarkStyleSheet
+	url = https://github.com/ColinDuquesnoy/QDarkStyleSheet.git
+[submodule "3rd/QtAwesome"]
+	path = 3rd/QtAwesome
+	url = https://github.com/gamecreature/QtAwesome.git
